@@ -1,4 +1,5 @@
 <?php
+
 /**
  * User: Zura
  * Date: 12/19/2021
@@ -30,7 +31,7 @@ class AuthController extends Controller
             'password' => [
                 'required',
                 'confirmed',
-                Password::min(8)->mixedCase()->numbers()->symbols()
+
             ]
         ]);
 
@@ -85,5 +86,4 @@ class AuthController extends Controller
             'success' => true
         ]);
     }
-
 }
