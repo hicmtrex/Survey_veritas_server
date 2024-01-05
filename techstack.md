@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hicmtrex/Survey_veritas_server](https://github.com/hicmtrex/Survey_veritas_server)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|12/21/23 <br/>Report generated|
+|21<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -161,7 +161,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/1778/default_90cb8b66e85ae5b95928b10bb076ab6a27c7e151.png'/> Packagist (8)
 
@@ -175,6 +175,13 @@ Full tech stack [here](/techstack.md)
 |[nunomaduro/collision](https://packagist.org/nunomaduro/collision)|v5.10.0|03/27/22|Firstname Lastname |N/A|N/A|
 |[phpunit/phpunit](https://packagist.org/phpunit/phpunit)|v9.5.10|03/27/22|Firstname Lastname |N/A|N/A|
 |[spatie/laravel-sluggable](https://packagist.org/spatie/laravel-sluggable)|v3.2.0|03/27/22|Firstname Lastname |N/A|N/A|
+
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (1)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[laravel-mix](https://www.npmjs.com/laravel-mix)|v6.0.39|03/27/22|Firstname Lastname |MIT|N/A|
 
 <br/>
 <div align='center'>
